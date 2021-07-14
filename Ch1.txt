@@ -1,1 +1,3 @@
 This is my story beginning. 
+
+This is the serious improvement.
